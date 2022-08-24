@@ -1,0 +1,5 @@
+Django==3.2.12
+numpy==1.19.5
+opencv_python==3.3.0.9
+Pillow==9.0.1
+pytesseract==0.3.7
